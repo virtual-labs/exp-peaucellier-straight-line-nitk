@@ -1,0 +1,92 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Grashof's condition is the necessary condition for?",
+        "answers": {
+          "a": "Continuous motion",
+          "b": "Non Continuous motion",
+          "c": "Intermittent motion",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "a",
+        "difficulty": ""
+      },
+      {
+        "question": "Which of the following straight line mechanisms is a four bar chain?",
+        "answers": {
+          "a": "Peaucellier",
+          "b": "Hart",
+          "c": "Tchebichev",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "c",
+        "difficulty": ""
+      },
+      {
+        "question": "The links in a peaucellier mechanism are ?",
+        "answers": {
+          "a": "Ternary link",
+          "b": "Flexible link",
+          "c": "None of these",
+          "d": "Binary link"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "d",
+        "difficulty": ""
+      },
+      {
+        "question": "Coupled wheel of locomotive is an inversion of",
+        "answers": {
+          "a": "Four bar mechanism",
+          "b": "Double slider crank mechanism",
+          "c": "Slider crank mechanism",
+          "d": "Six bar mechanism"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "a",
+        "difficulty": ""
+      },
+      {
+        "question": "Number of links in Peaucellier Mechanism",
+        "answers": {
+          "a": "6",
+          "b": "8",
+          "c": "4",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "b",
+        "difficulty": ""
+      }
+    ]
+  }
+  
+  
