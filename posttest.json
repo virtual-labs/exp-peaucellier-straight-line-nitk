@@ -1,0 +1,92 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "How many different link lengths are there in a Peaucellier Mechanism?",
+        "answers": {
+          "a": "4",
+          "b": "3",
+          "c": "6",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "b",
+        "difficulty": ""
+      },
+      {
+        "question": "Which of the following is not a perfect straight line mechanism?",
+        "answers": {
+          "a": "Watt",
+          "b": "Peaucellier",
+          "c": "Hart",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "a",
+        "difficulty": ""
+      },
+      {
+        "question": "The link in a Peaucellier mechanism is ?",
+        "answers": {
+          "a": "Flexible link",
+          "b": "Ternary link",
+          "c": "Binary link",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "c",
+        "difficulty": ""
+      },
+      {
+        "question": "Which of the following is true for Peaucellier mechanism shown below <img src='../images/exp17Q.png'/>",
+        "answers": {
+          "a": "AC=AB=3AO",
+          "b": "PC=BQ=CQ",
+          "c": "AO+OQ=QP",
+          "d": "All of the above"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "b",
+        "difficulty": ""
+      },
+      {
+        "question": "Which of the following geometric figures is there in a Peaucellier Mechanism",
+        "answers": {
+          "a": "Trapezoid ",
+          "b": "Square",
+          "c": "None of these",
+          "d": "Rhombus"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "d",
+        "difficulty": ""
+      }
+    ]
+  }
+  
+  
